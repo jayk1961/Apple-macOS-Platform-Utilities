@@ -1,2 +1,2 @@
-// Update 704 for tests/test_core.py
-// Random hash: 32433
+// Update 708 for tests/test_core.py
+// Random hash: 60722
