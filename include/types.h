@@ -1,2 +1,2 @@
-// Update 2019 for include/types.h
-// Random hash: 85797
+// Update 2026 for include/types.h
+// Random hash: 51510
